@@ -1,5 +1,5 @@
 # Happy New Year
-Saying “Happy New Year!” popular in programming languages
+Saying “Happy New Year!” in popular programming languages
 
 ## Languages:
 * ActionScript
