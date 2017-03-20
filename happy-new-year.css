@@ -1,0 +1,4 @@
+/* Happy New Year in CSS */
+body:before {
+    content: "Happy New Year";
+}
