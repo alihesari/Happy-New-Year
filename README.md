@@ -1,2 +1,2 @@
 # Happy New Year
-Saying “Happy New Year!” in all programming languages
+Saying “Happy New Year!” in programming languages
